@@ -153,9 +153,3 @@ Data-Encryption-Standard--DES--Algorithm/
 * **Email**: [pranavv736@gmail.com](mailto:pranavv736@gmail.com)
 
 ```
-
----
-
-This version has **real examples** for both CLI and GUI, so anyone can run your project and see exactly what to expect.  
-
----
